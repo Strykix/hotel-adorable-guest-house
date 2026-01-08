@@ -1,0 +1,76 @@
+{
+  "hotel_name": "Adorable Guest House",
+  "city": "Midigama",
+  "photos": [
+    {
+      "filename": "photo-01.jpg",
+      "path": "/images/hotel/photo-01.jpg",
+      "index": 0,
+      "size_kb": 180
+    },
+    {
+      "filename": "photo-02.jpg",
+      "path": "/images/hotel/photo-02.jpg",
+      "index": 1,
+      "size_kb": 93
+    },
+    {
+      "filename": "photo-03.jpg",
+      "path": "/images/hotel/photo-03.jpg",
+      "index": 2,
+      "size_kb": 97
+    },
+    {
+      "filename": "photo-04.jpg",
+      "path": "/images/hotel/photo-04.jpg",
+      "index": 3,
+      "size_kb": 144
+    },
+    {
+      "filename": "photo-05.jpg",
+      "path": "/images/hotel/photo-05.jpg",
+      "index": 4,
+      "size_kb": 99
+    },
+    {
+      "filename": "photo-06.jpg",
+      "path": "/images/hotel/photo-06.jpg",
+      "index": 5,
+      "size_kb": 121
+    },
+    {
+      "filename": "photo-07.jpg",
+      "path": "/images/hotel/photo-07.jpg",
+      "index": 6,
+      "size_kb": 522
+    },
+    {
+      "filename": "photo-08.jpg",
+      "path": "/images/hotel/photo-08.jpg",
+      "index": 7,
+      "size_kb": 103
+    },
+    {
+      "filename": "photo-09.jpg",
+      "path": "/images/hotel/photo-09.jpg",
+      "index": 8,
+      "size_kb": 341
+    },
+    {
+      "filename": "photo-10.jpg",
+      "path": "/images/hotel/photo-10.jpg",
+      "index": 9,
+      "size_kb": 113
+    }
+  ],
+  "place_info": {
+    "name": "Adorable Guest House",
+    "address": "Midigama, 227/A/1 Attikagahakoratuwa, Indan, Midigama 81700, Sri Lanka",
+    "rating": 5,
+    "reviews_count": 5,
+    "phone": "076 077 4365",
+    "website": null,
+    "place_id": "ChIJCa3VNgAV4ToRSmjfdFiXVIE"
+  },
+  "error": null
+}

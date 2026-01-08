@@ -1,0 +1,212 @@
+{
+  "hotelName": "Adorable Guest House",
+  "slug": "adorable-guest-house",
+  "template": "tropical",
+  "data": {
+    "name": "Adorable Guest House",
+    "zone": "Midigama",
+    "phone": "076 077 4365",
+    "booking_url": "https://www.booking.com/searchresults.html?ss=Adorable+Guest+House+Sri+Lanka",
+    "booking_search": "https://www.booking.com/searchresults.html?ss=Adorable+Guest+House+Sri+Lanka",
+    "instagram": "",
+    "google_maps_url": "https://maps.google.com/?cid=9319239935110113354&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "Midigama, 227/A/1 Attikagahakoratuwa, Indan, Midigama 81700, Sri Lanka"
+  },
+  "options": {
+    "static": true,
+    "skipPhotos": false,
+    "deploy": false
+  },
+  "content": {
+    "siteSettings": {
+      "name": "Adorable Guest House",
+      "tagline": "Your escape in Midigama, Sri Lanka",
+      "contact": {
+        "phone": "076 077 4365",
+        "whatsapp": "94760774365",
+        "email": "info@adorable-guest-house.com",
+        "address": "Midigama, 227/A/1 Attikagahakoratuwa, Indan, Midigama 81700, Sri Lanka"
+      },
+      "booking": {
+        "url": "https://www.booking.com/hotel/lk/adorable-guest-house.html",
+        "buttonText": "Book Now"
+      },
+      "social": {
+        "instagram": "",
+        "googleMaps": "https://maps.google.com/?cid=9319239935110113354&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+      },
+      "seo": {
+        "title": "Adorable Guest House | Beachfront Hotel in Midigama, Sri Lanka",
+        "description": "Experience paradise at Adorable Guest House. Steps from the beach Midigama, Sri Lanka. Perfect for surfers and beach lovers."
+      },
+      "mainImage": "/images/hotel/photo-01.jpg"
+    },
+    "homepage": {
+      "hero": {
+        "title": "Welcome to Adorable Guest House",
+        "subtitle": "Your beachfront escape in Midigama",
+        "ctaText": "Book Your Stay",
+        "ctaUrl": "https://www.booking.com/hotel/lk/adorable-guest-house.html",
+        "backgroundImage": "/images/hotel/photo-01.jpg"
+      },
+      "about": {
+        "title": "About Us",
+        "description": "Nestled along the beautiful coast of Midigama, Adorable Guest House offers an unforgettable experience in Sri Lanka's southern coast. Whether you're here for world-class surf breaks or simply to unwind by the ocean, we provide the perfect blend of comfort and authentic Sri Lankan hospitality.",
+        "image": "/images/hotel/photo-02.jpg"
+      },
+      "features": [
+        {
+          "title": "Beachfront Location",
+          "description": "Steps away from pristine sandy beaches",
+          "icon": "location"
+        },
+        {
+          "title": "Local Experience",
+          "description": "Immerse yourself in authentic Sri Lankan culture and cuisine",
+          "icon": "culture"
+        },
+        {
+          "title": "Surf Paradise",
+          "description": "Access to world-renowned surf breaks",
+          "icon": "surf"
+        }
+      ],
+      "gallery": {
+        "title": "Gallery",
+        "subtitle": "Discover our paradise",
+        "images": [
+          {
+            "src": "/images/hotel/photo-01.jpg",
+            "alt": "Adorable Guest House - Photo 1",
+            "caption": "Adorable Guest House"
+          },
+          {
+            "src": "/images/hotel/photo-02.jpg",
+            "alt": "Adorable Guest House - Photo 2",
+            "caption": "Adorable Guest House - Vue 2"
+          },
+          {
+            "src": "/images/hotel/photo-03.jpg",
+            "alt": "Adorable Guest House - Photo 3",
+            "caption": "Adorable Guest House - Vue 3"
+          },
+          {
+            "src": "/images/hotel/photo-04.jpg",
+            "alt": "Adorable Guest House - Photo 4",
+            "caption": "Adorable Guest House - Vue 4"
+          },
+          {
+            "src": "/images/hotel/photo-05.jpg",
+            "alt": "Adorable Guest House - Photo 5",
+            "caption": "Adorable Guest House - Vue 5"
+          },
+          {
+            "src": "/images/hotel/photo-06.jpg",
+            "alt": "Adorable Guest House - Photo 6",
+            "caption": "Adorable Guest House - Vue 6"
+          },
+          {
+            "src": "/images/hotel/photo-07.jpg",
+            "alt": "Adorable Guest House - Photo 7",
+            "caption": "Adorable Guest House - Vue 7"
+          },
+          {
+            "src": "/images/hotel/photo-08.jpg",
+            "alt": "Adorable Guest House - Photo 8",
+            "caption": "Adorable Guest House - Vue 8"
+          },
+          {
+            "src": "/images/hotel/photo-09.jpg",
+            "alt": "Adorable Guest House - Photo 9",
+            "caption": "Adorable Guest House - Vue 9"
+          },
+          {
+            "src": "/images/hotel/photo-10.jpg",
+            "alt": "Adorable Guest House - Photo 10",
+            "caption": "Adorable Guest House - Vue 10"
+          }
+        ]
+      },
+      "cta": {
+        "title": "Ready for Paradise?",
+        "description": "Book your stay at Adorable Guest House and discover the magic of Midigama.",
+        "buttonText": "Check Availability",
+        "buttonUrl": "https://www.booking.com/hotel/lk/adorable-guest-house.html",
+        "backgroundImage": "/images/hotel/photo-10.jpg"
+      }
+    },
+    "footer": {
+      "copyright": "2026 Adorable Guest House. All rights reserved.",
+      "address": "Midigama, 227/A/1 Attikagahakoratuwa, Indan, Midigama 81700, Sri Lanka",
+      "phone": "076 077 4365"
+    },
+    "gallery": [
+      {
+        "src": "/images/hotel/photo-01.jpg",
+        "alt": "Adorable Guest House - Photo 1",
+        "caption": "Adorable Guest House"
+      },
+      {
+        "src": "/images/hotel/photo-02.jpg",
+        "alt": "Adorable Guest House - Photo 2",
+        "caption": "Adorable Guest House - Vue 2"
+      },
+      {
+        "src": "/images/hotel/photo-03.jpg",
+        "alt": "Adorable Guest House - Photo 3",
+        "caption": "Adorable Guest House - Vue 3"
+      },
+      {
+        "src": "/images/hotel/photo-04.jpg",
+        "alt": "Adorable Guest House - Photo 4",
+        "caption": "Adorable Guest House - Vue 4"
+      },
+      {
+        "src": "/images/hotel/photo-05.jpg",
+        "alt": "Adorable Guest House - Photo 5",
+        "caption": "Adorable Guest House - Vue 5"
+      },
+      {
+        "src": "/images/hotel/photo-06.jpg",
+        "alt": "Adorable Guest House - Photo 6",
+        "caption": "Adorable Guest House - Vue 6"
+      },
+      {
+        "src": "/images/hotel/photo-07.jpg",
+        "alt": "Adorable Guest House - Photo 7",
+        "caption": "Adorable Guest House - Vue 7"
+      },
+      {
+        "src": "/images/hotel/photo-08.jpg",
+        "alt": "Adorable Guest House - Photo 8",
+        "caption": "Adorable Guest House - Vue 8"
+      },
+      {
+        "src": "/images/hotel/photo-09.jpg",
+        "alt": "Adorable Guest House - Photo 9",
+        "caption": "Adorable Guest House - Vue 9"
+      },
+      {
+        "src": "/images/hotel/photo-10.jpg",
+        "alt": "Adorable Guest House - Photo 10",
+        "caption": "Adorable Guest House - Vue 10"
+      }
+    ]
+  },
+  "bookingUrl": "https://www.booking.com/hotel/lk/adorable-guest-house.html",
+  "photos": [
+    "photo-01.jpg",
+    "photo-02.jpg",
+    "photo-03.jpg",
+    "photo-04.jpg",
+    "photo-05.jpg",
+    "photo-06.jpg",
+    "photo-07.jpg",
+    "photo-08.jpg",
+    "photo-09.jpg",
+    "photo-10.jpg"
+  ],
+  "generatedAt": "2026-01-08T14:54:36.861Z"
+}
